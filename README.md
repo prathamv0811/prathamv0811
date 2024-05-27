@@ -59,12 +59,16 @@ I'm a passionate developer with an interest in **robotics software development**
   <img src="https://roboticsbackend.com/wp-content/uploads/2020/04/ROS2_for_beginners_step_by_step.jpg" alt="ROS2" height="80">&nbsp;&nbsp;&nbsp;
   <img src="https://www.mathworks.com/images/responsive/global/pic-header-mathworks-logo2.svg" alt="MATLAB" height="80">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/220px-ChatGPT_logo.svg.png" alt="chatgpt" height="80">
-  
 </div>
+
+### IDE
+  <div><img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png" alt="VSCODE" height="80">
+  <img src="https://github.com/markusschanta/awesome-jupyter/raw/master/assets/logo.png" alt="JUPTER" height="80"></div>
+
 
 
 <kbd>![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif) <!-- Replace with your preferred GIF --></kbd>
 
-## Connect with Me
+### Connect with Me
  - LinkedIn: [Pratham Jain](https://www.linkedin.com/in/pratham-v-jain-mehta-59a23a1ba/)
   
