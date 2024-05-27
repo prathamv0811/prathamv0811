@@ -59,8 +59,6 @@ I'm a passionate developer with an interest in **robotics software development**
 ## Connect with Me
 
 - LinkedIn: [Pratham Jain](https://www.linkedin.com/in/pratham-v-jain-mehta-59a23a1ba/)
-- Twitter: [@your-twitter-username](https://twitter.com/your-twitter-username)
-- Blog: [Your Blog](https://yourblog.com)
 
 
 
