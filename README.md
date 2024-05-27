@@ -9,7 +9,8 @@
 
 I'm a passionate developer with an interest in **robotics software development**, **artificial intelligence**, **machine learning** and open-source projects. I love building innovative projects and constantly learning new things.
 
-<kbd>![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) <!-- Replace with your preferred GIF --></kbd>
+<kbd>  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="code" height="200">&nbsp;&nbsp;
+ <!-- Replace with your preferred GIF --></kbd>
 
 - 🔭 I’m currently persuing Bachelor of Engineering in  "ROBOTICS AND ARTIFICIAL INTELLIGENCE" at Banglore institute of Technology
 - 🌱 I’m currently learning <div>
