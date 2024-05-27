@@ -61,5 +61,4 @@ I'm a passionate developer with an interest in **robotics software development**
 
 ## Connect with Me
  - LinkedIn: [Pratham Jain](https://www.linkedin.com/in/pratham-v-jain-mehta-59a23a1ba/)
-- ## 🌐 Socials:
-[![Instagram](https://www.instagram.com/pratham.r_ai/)
+  
