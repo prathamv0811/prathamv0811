@@ -22,7 +22,7 @@ I'm a passionate developer with an interest in **robotics software development**
 
 - 👯 I’m looking to collaborate on open-source projects
 - 💬 Ask me about robotics software development, artificial intelligence, machine learning, and open-source
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
+- 📫 How to reach me: [1bi23ri036@bit-bangalore.edu.in](mailto:your-email@example.com)
 - 🤖 My aspiration is to become an AI robotics software developer.
 
 ![ElmoFireGIF](https://github.com/prathamv0811/prathamv0811/assets/148205479/83a7626c-aed7-4dc0-9197-417dbb559115)
