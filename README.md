@@ -6,6 +6,8 @@
 
 I'm a passionate developer with an interest in web development, machine learning, and open-source projects. I love building innovative projects and constantly learning new things.
 
+![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) <!-- Replace with your preferred GIF -->
+
 - 🔭 I’m currently working on [current project or learning goal]
 - 🌱 I’m currently learning Lua, Lisp, Python, Julia, C++, and Java
 - 👯 I’m looking to collaborate on open-source projects
@@ -17,35 +19,41 @@ I'm a passionate developer with an interest in web development, machine learning
 ## Skills
 
 ### Languages
-- ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-- ![Lisp](https://img.shields.io/badge/Lisp-3F3F3F?style=for-the-badge&logo=lisp&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
-- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+<div>
+  <img src="https://raw.githubusercontent.com/rossanoventurini/rossanoventurini/master/lua.gif" alt="Lua" height="80">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Lisp_Logo.svg/1200px-Lisp_Logo.svg.png" alt="Lisp" height="80">
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="Python" height="80">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Julia_prog_language.svg/1200px-Julia_prog_language.svg.png" alt="Julia" height="80">
+  <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" height="80">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="Java" height="80">
+</div>
 
 ### Frameworks & Libraries
-- [List of frameworks and libraries you use]
+<div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/TensorFlow_logo.svg/200px-TensorFlow_logo.svg.png" alt="TensorFlow" height="80">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/PyTorch_logo_black.svg/800px-PyTorch_logo_black.svg.png" alt="PyTorch" height="80">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/OpenCV_logo.png" alt="OpenCV" height="80">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" height="80">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png" alt="Pandas" height="80">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Seaborn_logo.svg/800px-Seaborn_logo.svg.png" alt="Seaborn" height="80">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Matplotlib_logo.svg/1024px-Matplotlib_logo.svg.png" alt="Matplotlib" height="80">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/800px-NumPy_logo_2020.svg.png" alt="NumPy" height="80">
+</div>
 
 ### Tools & Platforms
-- ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-- ![ROS2](https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white)
-- ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-- [List of other tools and platforms you use]
+<div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ros_logo.svg/1200px-Ros_logo.svg.png" alt="ROS" height="80">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_ros2.png/1200px-Logo_ros2.png" alt="ROS2" height="80">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/800px-Matlab_Logo.png" alt="MATLAB" height="80">
+</div>
+
+![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif) <!-- Replace with your preferred GIF -->
 
 ## GitHub Stats
 
 ![Pratham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-
-## Projects
-
-Here are some of my favorite projects:
-
-- [**Project 1**](https://github.com/your-username/project1) - Description of project 1
-- [**Project 2**](https://github.com/your-username/project2) - Description of project 2
-- [**Project 3**](https://github.com/your-username/project3) - Description of project 3
 
 ## Connect with Me
 
@@ -56,6 +64,8 @@ Here are some of my favorite projects:
 ## Acknowledgements
 
 - Thank you to [person or resource] for [reason].
+
+![Thank You GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif) <!-- Replace with your preferred GIF -->
 
 ---
 
