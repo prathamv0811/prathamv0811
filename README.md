@@ -22,7 +22,7 @@ I'm a passionate developer with an interest in robotics software development, ar
 
 ### Languages
 <div>
-  <img src="https://raw.githubusercontent.com/rossanoventurini/rossanoventurini/master/lua.gif" alt="Lua" height="80">&nbsp;&nbsp;&nbsp;
+  <img src="https://tenor.com/view/lua-luaa-roblox-lua-roblox-best-language-language-gif-27133467;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Logo_LISP.svg/1280px-Logo_LISP.svg.png" alt="Lisp" height="80">&nbsp;&nbsp;&nbsp;
   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="Python" height="80">&nbsp;&nbsp;&nbsp;
   <img src="https://julialang.org/assets/infra/logo.svg" alt="Julia" height="80">&nbsp;&nbsp;&nbsp;
