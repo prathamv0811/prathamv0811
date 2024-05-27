@@ -30,7 +30,6 @@ I'm a passionate developer with an interest in **robotics software development**
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="Java" height="80">
 </div>
 
-
 ### Frameworks & Libraries
 <div>
   <img src="https://img.icons8.com/color/452/tensorflow.png" alt="TensorFlow" height="80">&nbsp;&nbsp;&nbsp;
@@ -52,16 +51,20 @@ I'm a passionate developer with an interest in **robotics software development**
 
 ![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif) <!-- Replace with your preferred GIF -->
 
-## GitHub Stats
-
-![Pratham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-
 ## Connect with Me
 
 - LinkedIn: [Pratham Jain](https://www.linkedin.com/in/your-linkedin-username)
 - Twitter: [@your-twitter-username](https://twitter.com/your-twitter-username)
 - Blog: [Your Blog](https://yourblog.com)
 
-![Humor GIF](https://media.giphy.com/media/3oz8
+![Humor GIF](https://media.giphy.com/media/3oz8xLd9DJq2l2VFtu/giphy.gif) <!-- Replace with your preferred GIF -->
+
+## Acknowledgements
+
+- Thank you to [person or resource] for [reason].
+
+![Thank You GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif) <!-- Replace with your preferred GIF -->
+
+---
+
+*This is an auto-generated profile README, created with ❤️ by [GitHub Profile README Generator](https://github.com/rahuldkjain/github-profile-readme-generator)*
