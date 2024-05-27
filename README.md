@@ -60,5 +60,6 @@ I'm a passionate developer with an interest in **robotics software development**
 <kbd>![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif) <!-- Replace with your preferred GIF --></kbd>
 
 ## Connect with Me
-
-- LinkedIn: [Pratham Jain](https://www.linkedin.com/in/pratham-v-jain-mehta-59a23a1ba/)
+ - LinkedIn: [Pratham Jain](https://www.linkedin.com/in/pratham-v-jain-mehta-59a23a1ba/)
+- ## 🌐 Socials:
+[![Instagram](https://www.instagram.com/pratham.r_ai/)
