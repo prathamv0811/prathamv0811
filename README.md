@@ -4,12 +4,12 @@
 
 ## About Me
 
-I'm a passionate developer with an interest in robotics software development, artificial intelligence, machine learning, and open-source projects. I love building innovative projects and constantly learning new things.
+I'm a passionate developer with an interest in **robotics software development**, **artificial intelligence**, **machine learning**, and open-source projects. I love building innovative projects and constantly learning new things.
 
 ![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) <!-- Replace with your preferred GIF -->
 
 - 🔭 I’m currently working on [current project or learning goal]
-- 🌱 I’m currently learning Lua, Lisp, Python, Julia, C++, and Java
+- 🌱 I’m currently learning **Lua**, **Lisp**, **Python**, **Julia**, **C++**, and **Java**
 - 👯 I’m looking to collaborate on open-source projects
 - 💬 Ask me about robotics software development, artificial intelligence, machine learning, and open-source
 - 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
@@ -22,7 +22,7 @@ I'm a passionate developer with an interest in robotics software development, ar
 
 ### Languages
 <div>
-  <img src="https://tenor.com/view/lua-luaa-roblox-lua-roblox-best-language-language-gif-27133467;
+  <img src="https://raw.githubusercontent.com/rossanoventurini/rossanoventurini/master/lua.gif" alt="Lua" height="80">&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Logo_LISP.svg/1280px-Logo_LISP.svg.png" alt="Lisp" height="80">&nbsp;&nbsp;&nbsp;
   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="Python" height="80">&nbsp;&nbsp;&nbsp;
   <img src="https://julialang.org/assets/infra/logo.svg" alt="Julia" height="80">&nbsp;&nbsp;&nbsp;
@@ -30,9 +30,10 @@ I'm a passionate developer with an interest in robotics software development, ar
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="Java" height="80">
 </div>
 
+
 ### Frameworks & Libraries
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/TensorFlow_logo.svg/200px-TensorFlow_logo.svg.png" alt="TensorFlow" height="80">&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/452/tensorflow.png" alt="TensorFlow" height="80">&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/PyTorch_logo_black.svg/800px-PyTorch_logo_black.svg.png" alt="PyTorch" height="80">&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/OpenCV_logo.png" alt="OpenCV" height="80">&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" height="80">&nbsp;&nbsp;&nbsp;
@@ -63,14 +64,4 @@ I'm a passionate developer with an interest in robotics software development, ar
 - Twitter: [@your-twitter-username](https://twitter.com/your-twitter-username)
 - Blog: [Your Blog](https://yourblog.com)
 
-![Humor GIF](https://media.giphy.com/media/3oz8xLd9DJq2l2VFtu/giphy.gif) <!-- Replace with your preferred GIF -->
-
-## Acknowledgements
-
-- Thank you to [person or resource] for [reason].
-
-![Thank You GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif) <!-- Replace with your preferred GIF -->
-
----
-
-*This is an auto-generated profile README, created with ❤️ by [GitHub Profile README Generator](https://github.com/rahuldkjain/github-profile-readme-generator)*
+![Humor GIF](https://media.giphy.com/media/3oz8
