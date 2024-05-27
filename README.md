@@ -16,14 +16,16 @@ I'm a passionate developer with an interest in web development, machine learning
 - ⚡ Fun fact: I love solving Rubik's cubes and enjoy outdoor adventures.
 - 🤖 My aspiration is to become an AI robotics software developer.
 
+![Humor GIF](https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif) <!-- Replace with your preferred GIF -->
+
 ## Skills
 
 ### Languages
 <div>
   <img src="https://raw.githubusercontent.com/rossanoventurini/rossanoventurini/master/lua.gif" alt="Lua" height="80">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Lisp_Logo.svg/1200px-Lisp_Logo.svg.png" alt="Lisp" height="80">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Logo_LISP.svg/1280px-Logo_LISP.svg.png" alt="Lisp" height="80">
   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="Python" height="80">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Julia_prog_language.svg/1200px-Julia_prog_language.svg.png" alt="Julia" height="80">
+  <img src="https://julialang.org/assets/infra/logo.svg" alt="Julia" height="80">
   <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" height="80">
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="Java" height="80">
 </div>
@@ -60,6 +62,8 @@ I'm a passionate developer with an interest in web development, machine learning
 - LinkedIn: [Pratham Jain](https://www.linkedin.com/in/your-linkedin-username)
 - Twitter: [@your-twitter-username](https://twitter.com/your-twitter-username)
 - Blog: [Your Blog](https://yourblog.com)
+
+![Humor GIF](https://media.giphy.com/media/3oz8xLd9DJq2l2VFtu/giphy.gif) <!-- Replace with your preferred GIF -->
 
 ## Acknowledgements
 
