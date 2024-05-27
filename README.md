@@ -1,6 +1,6 @@
 # Hi there, I'm Pratham Jain! 👋
 <div>
-<kbd> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2xmMDNjc3c0MWJyY2R6bW45eGg4cGRvZWk3MW5pYjRmeDdqdDlzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/koxVXnnmaQwllyovVG/giphy.gif" width="" height="200"/> </kbd> <kbd> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3d2ODJoajl2cXd4M2VqamE4a2ltcDl4eW04ZmNzZWxsaTB2cnR5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4pTsNgkamxfk2ZLq/giphy.gif" width="" height="200"/> </kbd> <kbd> <img src="https://t3.ftcdn.net/jpg/02/73/28/88/360_F_273288898_GaTG8GJZIaTmVzNBkksZ1WBnZPKLiTRo.jpg" width="" height="200"/> </kbd>
+<kbd> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2xmMDNjc3c0MWJyY2R6bW45eGg4cGRvZWk3MW5pYjRmeDdqdDlzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/koxVXnnmaQwllyovVG/giphy.gif" width="" height="200"/> </kbd> <kbd> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3d2ODJoajl2cXd4M2VqamE4a2ltcDl4eW04ZmNzZWxsaTB2cnR5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4pTsNgkamxfk2ZLq/giphy.gif" width="" height="200"/> </kbd> <kbd> <img src="https://t3.ftcdn.net/jpg/02/73/28/88/360_F_273288898_GaTG8GJZIaTmVzNBkksZ1WBnZPKLiTRo.jpg" width="" height="100"/> </kbd>
 </div>
 
 
