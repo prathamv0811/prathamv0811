@@ -48,6 +48,9 @@ I'm a passionate developer with an interest in **robotics software development**
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" height="80">&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png" alt="Pandas" height="80">&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/800px-NumPy_logo_2020.svg.png" alt="NumPy" height="80">
+  <img src="https://pytorch.org/tutorials/_static/img/thumbnails/cropped/Deploying-PyTorch-in-Python-via-a-REST-API-with-Flask.png" alt="pytorch" height="80">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/220px-OpenCV_Logo_with_text_svg_version.svg.png" alt="opencv" height="80">
+
 </div>
 
 ### Tools & Platforms
@@ -55,6 +58,8 @@ I'm a passionate developer with an interest in **robotics software development**
   <img src="https://engineering.oregonstate.edu/sites/engineering.oregonstate.edu/files/styles/fluid_webp/public/2022-11/robotics-ros.png.webp?itok=HPGe454D" alt="ROS" height="80">&nbsp;&nbsp;&nbsp;
   <img src="https://roboticsbackend.com/wp-content/uploads/2020/04/ROS2_for_beginners_step_by_step.jpg" alt="ROS2" height="80">&nbsp;&nbsp;&nbsp;
   <img src="https://www.mathworks.com/images/responsive/global/pic-header-mathworks-logo2.svg" alt="MATLAB" height="80">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/220px-ChatGPT_logo.svg.png" alt="chatgpt" height="80">
+  
 </div>
 
 
