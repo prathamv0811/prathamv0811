@@ -19,6 +19,7 @@ I'm a passionate developer with an interest in **robotics software development**
   <img src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" alt="Java" height="40">&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" height="40">&nbsp;&nbsp;
   <img src="https://cdn.icon-icons.com/icons2/112/PNG/256/python_18894.png" alt="Python" height="40">
+  <img src="https://www.freecodecamp.org/news/content/images/size/w2000/2023/01/Ifihan-article-cover.png" alt="julia" height="40">
 </div>
 
 - 👯 I’m looking to collaborate on open-source projects
