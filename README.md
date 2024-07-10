@@ -14,12 +14,9 @@ I'm a passionate developer with an interest in **robotics software Engineering**
 
 - 🔭 I’m currently persuing Bachelor of Engineering in  "ROBOTICS AND ARTIFICIAL INTELLIGENCE" at Banglore institute of Technology
 - 🌱 I’m currently learning <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/220px-Lua-Logo.svg.png" alt="Lua" height="40">&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lisp_logo.svg/220px-Lisp_logo.svg.png" alt="Lisp" height="40">&nbsp;&nbsp;
   <img src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" alt="Java" height="40">&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" height="40">&nbsp;&nbsp;
   <img src="https://cdn.icon-icons.com/icons2/112/PNG/256/python_18894.png" alt="Python" height="40">
-  <img src="https://www.freecodecamp.org/news/content/images/size/w2000/2023/01/Ifihan-article-cover.png" alt="julia" height="40">
 </div>
 
 - 👯 I’m looking to collaborate on open-source projects
@@ -34,10 +31,7 @@ I'm a passionate developer with an interest in **robotics software Engineering**
 
 ### Languages
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/220px-Lua-Logo.svg.png" alt="Lua" height="80">&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lisp_logo.svg/220px-Lisp_logo.svg.png" alt="Lisp" height="80">&nbsp;&nbsp;&nbsp;
   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="Python" height="80">&nbsp;&nbsp;&nbsp;
-  <img src="https://julialang.org/assets/infra/logo.svg" alt="Julia" height="80">&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" height="80">&nbsp;&nbsp;&nbsp;
   <img src="https://www.sam-solutions.com/blog/wp-content/uploads/2019/07/java-image-recognition.jpg" alt="Java" height="80">
 </div>
