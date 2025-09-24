@@ -1,4 +1,4 @@
-# 🤖 Pratham V Jain – Robotics & Physical AI Enthusiast  
+# 🤖 Pratham V Jain – Physical AI Enthusiast  
 
 Hi! I’m **Pratham V Jain**, an AI & Robotics Engineering student passionate about **Physical AI** — where intelligent software meets the real world.  
 
@@ -65,6 +65,6 @@ My ultimate goal is to push the boundaries of **robot intelligence**, making hum
 
 - **GitHub:** [@PrathamVJain](https://github.com/PrathamVJain)  
 - **LinkedIn:** [Pratham V Jain](https://www.linkedin.com/in/pratham-v-jain-mehta-59a23a1ba/)  
-- **Email:** 
+- **Email:** princecrronaldo64@gmail.com
 
 ---
